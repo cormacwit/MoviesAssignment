@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import PageTemplate from "../components/templateMovieListPage";
+import PageTemplate from "../components/templateMoviesListPage";
 import { getMovies } from "../api/tmdb-api";
 
 
